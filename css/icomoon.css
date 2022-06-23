@@ -545,6 +545,8 @@
 }
 .icon-globe-outline:before {
   content: "\e9df";
+  display: block;
+  text-align:center;
 }
 .icon-eye-outline:before {
   content: "\e9e0";
@@ -1382,6 +1384,8 @@
 }
 .icon-bulb:before {
   content: "\e90e";
+  display: block;
+  text-align:center;
 }
 .icon-pen2:before {
   content: "\e90f";
@@ -1409,6 +1413,8 @@
 }
 .icon-phone3:before {
   content: "\e917";
+  display: block;
+  text-align:center;
 }
 .icon-news:before {
   content: "\e918";
@@ -1439,6 +1445,8 @@
 }
 .icon-data:before {
   content: "\e921";
+  display: block;
+  text-align:center;
 }
 .icon-music2:before {
   content: "\e922";
